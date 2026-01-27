@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Round Clock", "Round Clock\Round Clock.vcxproj", "{5B978467-5628-4ADD-85AA-FB69C4441905}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Rond Clock EXE", "Rond Clock EXE\Rond Clock EXE.vdproj", "{68B63E78-7426-DFDF-6868-1652F7FC5DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B978467-5628-4ADD-85AA-FB69C4441905}.Debug|x64.ActiveCfg = Debug|x64
+		{5B978467-5628-4ADD-85AA-FB69C4441905}.Debug|x64.Build.0 = Debug|x64
+		{5B978467-5628-4ADD-85AA-FB69C4441905}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B978467-5628-4ADD-85AA-FB69C4441905}.Debug|x86.Build.0 = Debug|Win32
+		{5B978467-5628-4ADD-85AA-FB69C4441905}.Release|x64.ActiveCfg = Release|x64
+		{5B978467-5628-4ADD-85AA-FB69C4441905}.Release|x64.Build.0 = Release|x64
+		{5B978467-5628-4ADD-85AA-FB69C4441905}.Release|x86.ActiveCfg = Release|Win32
+		{5B978467-5628-4ADD-85AA-FB69C4441905}.Release|x86.Build.0 = Release|Win32
+		{68B63E78-7426-DFDF-6868-1652F7FC5DAE}.Debug|x64.ActiveCfg = Debug
+		{68B63E78-7426-DFDF-6868-1652F7FC5DAE}.Debug|x86.ActiveCfg = Debug
+		{68B63E78-7426-DFDF-6868-1652F7FC5DAE}.Release|x64.ActiveCfg = Release
+		{68B63E78-7426-DFDF-6868-1652F7FC5DAE}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB9F21B8-EAB8-40A2-A643-0A185DC96F83}
+	EndGlobalSection
+EndGlobal
