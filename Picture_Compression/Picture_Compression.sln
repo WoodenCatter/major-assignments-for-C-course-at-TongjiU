@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Picture_Compression", "Picture_Compression\Picture_Compression.vcxproj", "{04F3C04B-ECAB-4CD7-A643-C30D65DCD989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F3C04B-ECAB-4CD7-A643-C30D65DCD989}.Debug|x64.ActiveCfg = Debug|x64
+		{04F3C04B-ECAB-4CD7-A643-C30D65DCD989}.Debug|x64.Build.0 = Debug|x64
+		{04F3C04B-ECAB-4CD7-A643-C30D65DCD989}.Debug|x86.ActiveCfg = Debug|Win32
+		{04F3C04B-ECAB-4CD7-A643-C30D65DCD989}.Debug|x86.Build.0 = Debug|Win32
+		{04F3C04B-ECAB-4CD7-A643-C30D65DCD989}.Release|x64.ActiveCfg = Release|x64
+		{04F3C04B-ECAB-4CD7-A643-C30D65DCD989}.Release|x64.Build.0 = Release|x64
+		{04F3C04B-ECAB-4CD7-A643-C30D65DCD989}.Release|x86.ActiveCfg = Release|Win32
+		{04F3C04B-ECAB-4CD7-A643-C30D65DCD989}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22484734-F168-4FAC-8FB2-56CFF271EA0F}
+	EndGlobalSection
+EndGlobal
